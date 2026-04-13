@@ -45,3 +45,7 @@ To test the scaffolder:
 2. Run `python scripts/scaffold.py --project-name "TestPlugin" --output-dir "./test-output"`.
 3. Verify the generated files in `./test-output`.
 4. Run `rm -rf test-output` when finished.
+
+---
+
+> **Note**: This repository was fully scaffolded, documented, and managed by **Gemini CLI** with zero manual interference.
