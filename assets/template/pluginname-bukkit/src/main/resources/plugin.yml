@@ -1,0 +1,8 @@
+name: pluginname
+version: 1.0-SNAPSHOT
+main: com.example.plugin.bukkit.PluginName
+api-version: 1.20
+commands:
+  hello:
+    description: A simple hello command.
+    usage: /<command>
