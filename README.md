@@ -1,6 +1,6 @@
 # Velocity/Bukkit Plugin Scaffolder Skill
 
-A [Gemini CLI](https://github.com/google/gemini-cli) skill for scaffolding cross-platform Minecraft plugin projects. It sets up a multi-module Gradle project with Kotlin support, targeting both **Velocity** and **Bukkit/Spigot/Paper**.
+A [Gemini CLI](https://github.com/google-gemini/gemini-cli) skill for scaffolding cross-platform Minecraft plugin projects. It sets up a multi-module Gradle project with Kotlin support, targeting both **Velocity** and **Bukkit/Spigot/Paper**.
 
 ## Features
 
